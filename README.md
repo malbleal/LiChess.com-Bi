@@ -1,7 +1,4 @@
 # LiChess.com-Bi
 Quarto projeto do curso Ada - Dados
 
-Tentamos fazer análises com tempo médio de partida, mas a coluna de tempo que estava em 'UNIX' veio bugada. 
-Até conseguimos converter em 'datatime' mas os dados estavam embolados e só utilizando outro dataset para 
-ficar do jeito que queriamos. Provavelmente continuaremos nossa análise sobre o Xadrez no módulo 5, com um
-dataset mais robusto e com menos bugs.
+Fizemos a análise de 20 mil partidas de xadrez que ocorreram na plataforma Lichess. Nessa análise, procuramos responder algumas perguntas, como por exemplo, jogar com as peças brancas oferece alguma vantagem? Qual a abertura mais praticada? Os usuários com maior número de partida são os que possuem maior rating?. Nosso estudo responde a essas e outras perguntas que são de interesse para todos que gostam de jogar ou se interessam por xadrez.
